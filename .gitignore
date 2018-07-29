@@ -49,3 +49,4 @@ jspm_packages
 # Editor/IDE files
 /.idea/
 /.vscode/
+*.iml
